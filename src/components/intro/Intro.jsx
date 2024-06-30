@@ -72,7 +72,7 @@ const Intro = () => {
         Front End Developer
       </motion.div>
       <div className="imageContainer">
-        <img src="./images/Hero1.png" alt="" />
+        <img src="images/Hero1.png" alt="" />
       </div>
     </div>
   );
