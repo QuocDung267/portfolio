@@ -10,7 +10,7 @@ const App = () => {
         <Navbar />
         <Intro />
       </section>
-      <section>2</section>
+      <section>@soumyajit4419</section>
       <section>3</section>
       <section>4</section>
     </div>
