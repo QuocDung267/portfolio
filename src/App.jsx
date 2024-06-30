@@ -1,8 +1,19 @@
-import React from 'react'
+import React from "react";
+import "./App.scss";
+import Navbar from "./components/navbar/Navbar";
+import Intro from "./components/intro/Intro";
 
- const App = () => {
+const App = () => {
   return (
-    <div>Hi Jasson</div>
-  )
-}
-export default App
+    <div>
+      <section id="Homepage">
+        <Navbar />
+        <Intro />
+      </section>
+      <section>2</section>
+      <section>3</section>
+      <section>4</section>
+    </div>
+  );
+};
+export default App;
