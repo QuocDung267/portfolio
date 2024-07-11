@@ -66,3 +66,8 @@ Công cụ và công nghệ sử dụng
 - Lợi ích của việc có một portfolio
 - Q&A
 Trả lời các câu hỏi từ khán giả
+
+**10. Nhược điểm của react**
+- react chỉ là view library chứ không phải là một mvc framework như những framwork. được phát triển bởi facebook và giúp render ra phần view, không có model và controler nên phải kết hợp với thư viện khác
+- tốc độ phát triển nhanh,
+- không có cấu trúc mạnh mẽ và jsx khó cho người bắt đầu
