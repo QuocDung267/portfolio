@@ -72,3 +72,4 @@ Trả lời các câu hỏi từ khán giả
 - tốc độ phát triển nhanh,
 - không có cấu trúc mạnh mẽ và jsx khó cho người bắt đầu
 - https://blackwind.vn/
+- https://www.quickstart.com/web-development/10-front-end-web-developer-portfolios-to-inspire-you/
