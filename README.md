@@ -73,3 +73,10 @@ Trả lời các câu hỏi từ khán giả
 - không có cấu trúc mạnh mẽ và jsx khó cho người bắt đầu
 - https://blackwind.vn/
 - https://www.quickstart.com/web-development/10-front-end-web-developer-portfolios-to-inspire-you/
+**11. :hover card**
+.project-card-view:hover {
+    box-shadow: 0 4px 4px 5px rgba(129, 72, 144, .561) !important;
+    overflow: hidden !important;
+    -webkit-transform: scale(1.02) !important;
+    /* transform: scale(1.02) !important; */
+}
