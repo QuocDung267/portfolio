@@ -80,6 +80,8 @@ Trả lời các câu hỏi từ khán giả
     -webkit-transform: scale(1.02) !important;
     /* transform: scale(1.02) !important; */
 }
+'''
+
 #include <iostream>
 #include <vector>
 
@@ -117,5 +119,5 @@ int main() {
     }
     std::cout << "]\n";
     
-    return 0;
-}
+
+'''
