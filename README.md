@@ -80,3 +80,42 @@ Trả lời các câu hỏi từ khán giả
     -webkit-transform: scale(1.02) !important;
     /* transform: scale(1.02) !important; */
 }
+#include <iostream>
+#include <vector>
+
+int removeElement(std::vector<int>& nums, int val) {
+    int i = 0;  // Pointer to keep track of the next position for non-val elements
+    
+    for (int j = 0; j < nums.size(); ++j) {
+        if (nums[j] != val) {
+            nums[i] = nums[j];  // Copy non-val element to the current i position
+            i++;
+        }
+    }
+    
+    return i;  // i is the number of elements not equal to val
+}
+
+int main() {
+    // Example 1
+    std::vector<int> nums1 = {3, 2, 2, 3};
+    int val1 = 3;
+    int k1 = removeElement(nums1, val1);
+    std::cout << "Output for example 1: " << k1 << ", nums = [";
+    for (int i = 0; i < k1; i++) {
+        std::cout << nums1[i] << (i < k1 - 1 ? ", " : "");
+    }
+    std::cout << "]\n";
+
+    // Example 2
+    std::vector<int> nums2 = {0, 1, 2, 2, 3, 0, 4, 2};
+    int val2 = 2;
+    int k2 = removeElement(nums2, val2);
+    std::cout << "Output for example 2: " << k2 << ", nums = [";
+    for (int i = 0; i < k2; i++) {
+        std::cout << nums2[i] << (i < k2 - 1 ? ", " : "");
+    }
+    std::cout << "]\n";
+    
+    return 0;
+}
