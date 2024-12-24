@@ -208,4 +208,22 @@ I am rewarded fairly through my compensation and benefits for the work that I do
 
 I would recommend this Company as a great place to work. (95)
 "Tôi cho 95 điểm vì tôi tin đây là một môi trường làm việc tốt, nhưng vẫn còn không gian để cải thiện về sự cân bằng giữa công việc và đời sống cá nhân cũng như các phúc lợi."
+
+
+
+**Kinh nghiệm sử dụng và tùy chỉnh các framework UI thành phần:**
+
+Có khả năng làm việc với các thư viện giao diện người dùng phổ biến như Ant Design, Tailwind CSS với Flowbite, và Material Design.
+Đã từng tham gia phát triển và tùy chỉnh giao diện người dùng cho các dự án, đảm bảo tính tương thích trên nhiều loại thiết bị và trình duyệt.
+Hiểu cách tối ưu hóa và tùy chỉnh các component để phù hợp với yêu cầu thiết kế và trải nghiệm người dùng.
+**Hiểu biết về các tiêu chuẩn W3C:**
+
+Nắm vững các tiêu chuẩn của W3C (World Wide Web Consortium) và cách áp dụng chúng trong quá trình phát triển web.
+Có kinh nghiệm phát hiện và xử lý các lỗi không tuân thủ tiêu chuẩn W3C, nhằm đảm bảo trang web hoạt động mượt mà trên tất cả các trình duyệt và nền tảng.
+Đã từng tham gia vào việc cải thiện trải nghiệm người dùng bằng cách đảm bảo các quy tắc truy cập và tính tuân thủ của giao diện.
+**Kinh nghiệm viết và thực hiện unit test cho ứng dụng web:**
+
+Đã từng tham gia viết và thực hiện unit tests cho các ứng dụng web sử dụng các công cụ như Jest, Mocha, và Cypress.
+Hiểu biết về quy trình kiểm thử tự động và cách xây dựng các bài kiểm tra hiệu quả, nhằm đảm bảo chất lượng và độ tin cậy của mã nguồn.
+Có kinh nghiệm trong việc kiểm thử các thành phần UI, xử lý dữ liệu, và logic ứng dụng để phát hiện và khắc phục sớm các lỗi tiềm ẩn.
 '''
