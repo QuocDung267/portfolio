@@ -226,4 +226,106 @@ Có kinh nghiệm phát hiện và xử lý các lỗi không tuân thủ tiêu 
 Đã từng tham gia viết và thực hiện unit tests cho các ứng dụng web sử dụng các công cụ như Jest, Mocha, và Cypress.
 Hiểu biết về quy trình kiểm thử tự động và cách xây dựng các bài kiểm tra hiệu quả, nhằm đảm bảo chất lượng và độ tin cậy của mã nguồn.
 Có kinh nghiệm trong việc kiểm thử các thành phần UI, xử lý dữ liệu, và logic ứng dụng để phát hiện và khắc phục sớm các lỗi tiềm ẩn.
+HTML là gì?
+HTML (HyperText Markup Language) là ngôn ngữ đánh dấu sử dụng để tạo cấu trúc cho trang web.
+Thẻ <div> và <span> khác nhau như thế nào?
+<div> là phần tử block-level, còn <span> là inline-level. <div> dùng để nhóm các phần tử lớn, còn <span> thường dùng cho văn bản hoặc nhóm nhỏ.
+Thẻ <head> và <body> có chức năng gì?
+<head> chứa thông tin về tài liệu (metadata), còn <body> chứa nội dung hiển thị trên trang web.
+Thẻ <meta> có công dụng gì?
+Thẻ <meta> cung cấp metadata về tài liệu HTML như charset, mô tả, từ khóa, viewport, v.v.
+Các thuộc tính global trong HTML là gì?
+Các thuộc tính áp dụng cho tất cả thẻ HTML như id, class, style, title, lang, v.v.
+Thẻ <section> dùng để làm gì?
+<section> được dùng để nhóm các nội dung liên quan thành một phần trong tài liệu.
+Sự khác biệt giữa thẻ <ol> và <ul> là gì?
+<ol> tạo danh sách có thứ tự (số thứ tự), còn <ul> tạo danh sách không thứ tự (dấu chấm).
+Thẻ <a> có tác dụng gì?
+<a> được dùng để tạo liên kết đến trang khác hoặc phần tử khác trong trang.
+Công dụng của thuộc tính alt trong thẻ <img> là gì?
+alt cung cấp văn bản thay thế cho hình ảnh khi không thể hiển thị hoặc cho các công cụ đọc màn hình.
+Thẻ <iframe> dùng để làm gì?
+<iframe> nhúng một tài liệu HTML hoặc trang web khác vào trong trang hiện tại.
+HTML5 là gì?
+HTML5 là phiên bản mới của HTML, với nhiều thẻ và API mới như <canvas>, <audio>, <video>, v.v.
+Thẻ <form> dùng để làm gì?
+<form> được sử dụng để tạo biểu mẫu thu thập dữ liệu từ người dùng.
+Thuộc tính action trong thẻ <form> dùng để làm gì?
+action chỉ định URL nơi dữ liệu biểu mẫu sẽ được gửi đến khi người dùng gửi biểu mẫu.
+Thẻ nào trong HTML5 để nhúng video?
+Thẻ <video>.
+Thẻ <canvas> trong HTML5 có công dụng gì?
+<canvas> cung cấp một vùng để vẽ đồ họa động bằng cách sử dụng JavaScript.
+Sự khác biệt giữa thẻ <input type="button"> và <button> là gì?
+<input type="button"> chỉ tạo nút đơn giản, còn <button> có thể chứa văn bản hoặc HTML bên trong.
+Làm thế nào để tạo liên kết mở trong một tab mới?
+Sử dụng thuộc tính target="_blank" trong thẻ <a>.
+Thẻ <nav> dùng để làm gì?
+<nav> dùng để định nghĩa một khối chứa các liên kết điều hướng trong trang web.
+Thẻ <table> dùng để tạo gì?
+Thẻ <table> dùng để tạo bảng trong HTML.
+Thẻ <figure> và <figcaption> có chức năng gì?
+<figure> chứa nội dung như hình ảnh hoặc biểu đồ, còn <figcaption> là mô tả cho nội dung đó.
+CSS:
+CSS là gì?
+CSS (Cascading Style Sheets) là ngôn ngữ dùng để định dạng và bố trí trang web.
+Các cách để nhúng CSS vào HTML là gì?
+Có ba cách: inline (trực tiếp trong thẻ), internal (trong thẻ <style>), và external (liên kết với file .css bên ngoài).
+Sự khác biệt giữa class và id trong CSS là gì?
+id là duy nhất cho mỗi phần tử và chỉ dùng một lần, còn class có thể áp dụng cho nhiều phần tử.
+Box model là gì?
+Box model bao gồm: content, padding, border, và margin – xác định kích thước và khoảng cách của phần tử.
+Thuộc tính position trong CSS có những giá trị nào?
+Các giá trị gồm: static, relative, absolute, fixed, và sticky.
+Flexbox trong CSS là gì?
+Flexbox là một cách bố trí mới giúp sắp xếp và phân bố không gian các phần tử trong container một cách linh hoạt.
+Làm thế nào để tạo hình tròn trong CSS?
+Sử dụng thuộc tính border-radius: 50% cho phần tử vuông.
+Grid layout trong CSS là gì?
+CSS Grid là hệ thống bố trí dạng lưới cho phép sắp xếp phần tử thành hàng và cột.
+Thuộc tính z-index trong CSS dùng để làm gì?
+z-index xác định thứ tự xếp chồng của các phần tử, phần tử có z-index cao hơn sẽ hiển thị trước.
+Công dụng của media queries là gì?
+media queries dùng để điều chỉnh bố cục và kiểu dáng dựa trên kích thước và loại thiết bị.
+Pseudo-class và pseudo-element là gì?
+Pseudo-class chọn phần tử dựa trên trạng thái (:hover, :focus), pseudo-element chọn một phần cụ thể của phần tử (::before, ::after).
+Sự khác nhau giữa display: inline và display: block là gì?
+inline không bắt đầu dòng mới và chỉ chiếm không gian vừa nội dung, còn block chiếm toàn bộ chiều rộng dòng và bắt đầu dòng mới.
+Cách tạo gradient trong CSS?
+Sử dụng background: linear-gradient() hoặc background: radial-gradient().
+Thuộc tính opacity làm gì?
+opacity điều chỉnh độ trong suốt của phần tử (giá trị từ 0 đến 1).
+Công dụng của thuộc tính float là gì?
+float đẩy phần tử sang trái hoặc phải để các phần tử khác bao quanh nó.
+CSS có thể thực hiện animation không?
+Có, thông qua các thuộc tính như @keyframes, animation, transition.
+Sự khác biệt giữa margin và padding là gì?
+margin là khoảng cách bên ngoài phần tử, còn padding là khoảng cách bên trong giữa nội dung và border.
+Cách viết CSS để thiết kế trang responsive là gì?
+Sử dụng media queries, Flexbox, Grid và kích thước theo tỷ lệ phần trăm.
+Cách ẩn phần tử trong CSS là gì?
+Sử dụng display: none hoặc visibility: hidden.
+Công dụng của thuộc tính box-shadow là gì?
+box-shadow thêm hiệu ứng đổ bóng cho các phần tử.
+JavaScript:
+JavaScript là gì?
+JavaScript là ngôn ngữ lập trình phía client giúp tương tác và thao tác với nội dung trang web.
+Sự khác biệt giữa var, let, và const là gì?
+var có phạm vi hàm, let và const có phạm vi khối; const không cho phép thay đổi giá trị sau khi gán.
+Callback function là gì?
+Callback function là một hàm được truyền như tham số và gọi lại trong hàm khác sau khi thực hiện xong.
+Sự khác nhau giữa == và === là gì?
+== kiểm tra bằng giá trị, còn === kiểm tra bằng cả giá trị và kiểu dữ liệu.
+Closure trong JavaScript là gì?
+Closure xảy ra khi một hàm "ghi nhớ" biến từ phạm vi bên ngoài của nó, ngay cả sau khi hàm đó đã được thực thi.
+Event bubbling và event capturing là gì?
+Event bubbling là sự kiện bắt đầu từ phần tử con và lan ra cha, event capturing ngược lại.
+Async/await trong JavaScript có công dụng gì?
+Async/await là cú pháp giúp xử lý các thao tác bất đồng bộ một cách dễ đọc hơn so với Promises.
+Sự khác biệt giữa null và undefined là gì?
+undefined là khi biến chưa được gán giá trị, còn null là giá trị rỗng được gán cố ý.
+DOM là gì?
+DOM (Document Object Model) là mô hình cây biểu diễn cấu trúc tài liệu HTML, cho phép JavaScript tương tác với nội dung.
+Cách bắt sự kiện khi nhấn nút trên trang web là gì?
+Sử dụng phương thức addEventListener để lắng nghe sự kiện click.
 '''
